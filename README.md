@@ -77,33 +77,34 @@ The following procedures were performed by Brian Brunelle, Arbor Biosciences
 the Elateridae database; 0.1% masked (all simple repeats)
 3) 1.15X Tiling (100 nt bait from every 85 nt) interval based on GC, ΔG,
 4) Each bait candidate was BLASTed against the 25 provided genomes;
+
 | Species                   | TaxID   | Common Name              | Accession       |
 |---------------------------|---------|--------------------------|-----------------|
-| Oryzaephilus surinamensis | 41112   | saw-toothed grain beetle | GCA_004796505.1 |
-| Popillia japonica         | 7064    | Japanese beetle          | GCA_004785975.1 |
-| Asbolus verrucosus        | 1661398 | beetles                  | GCA_004193795.1 |
-| Protaetia brevitarsis     | 348688  | beetles                  | GCA_004143645.1 |
-| Diabrotica virgifera      | 50389   | western corn rootworm    | GCF_003013835.1 |
-| Harmonia axyridis         | 115357  | beetles                  | GCA_003865315.1 |
-| Harmonia axyridis         | 115357  | beetles                  | GCA_003865295.1 |
-| Harmonia axyridis         | 115357  | beetles                  | GCA_003865275.1 |
-| Coccinella septempunctata | 41139   | seven-spotted ladybird   | GCA_003568925.1 |
-| Harmonia axyridis         | 115357  | beetles                  | GCA_003402655.1 |
-| Aleochara bilineata       | 135921  | beetles                  | GCA_003054995.1 |
-| Sitophilus oryzae         | 7048    | rice weevil              | GCA_002938485.1 |
-| Agrilus planipennis       | 224129  | emerald ash borer        | GCF_000699045.2 |
-| Anoplophora glabripennis  | 217634  | Asian longhorned beetle  | GCF_000390285.2 |
-| Leptinotarsa decemlineata | 7539    | Colorado potato beetle   | GCF_000500325.1 |
-| Onthophagus taurus        | 166361  | beetles                  | GCF_000648695.1 |
-| Pogonus chalceus          | 235516  | beetles                  | GCA_002278615.1 |
-| Aethina tumida            | 116153  | small hive beetle        | GCF_001937115.1 |
-| Tribolium castaneum       | 7070    | red flour beetle         | GCF_000002335.3 |
-| Oryctes borbonicus        | 1629725 | beetles                  | GCA_001443705.1 |
-| Dendroctonus ponderosae   | 77166   | mountain pine beetle     | GCF_000355655.1 |
-| Nicrophorus vespilloides  | 110193  | beetles                  | GCF_001412225.1 |
-| Priacma serrata           | 50550   | beetles                  | GCA_000281835.1 |
-| Hypothenemus hampei       | 57062   | coffee berry borer       | GCA_001012855.1 |
-| Dendroctonus ponderosae   | 77166   | mountain pine beetle     | GCA_000346045.2 |
+| *Oryzaephilus surinamensis* | 41112   | saw-toothed grain beetle | GCA_004796505.1 |
+| *Popillia japonica*         | 7064    | Japanese beetle          | GCA_004785975.1 |
+| *Asbolus verrucosus*        | 1661398 | beetles                  | GCA_004193795.1 |
+| *Protaetia brevitarsis*     | 348688  | beetles                  | GCA_004143645.1 |
+| *Diabrotica virgifera*      | 50389   | western corn rootworm    | GCF_003013835.1 |
+| *Harmonia axyridis*         | 115357  | beetles                  | GCA_003865315.1 |
+| *Harmonia axyridis*         | 115357  | beetles                  | GCA_003865295.1 |
+| *Harmonia axyridis*         | 115357  | beetles                  | GCA_003865275.1 |
+| *Coccinella septempunctata* | 41139   | seven-spotted ladybird   | GCA_003568925.1 |
+| *Harmonia axyridis*         | 115357  | beetles                  | GCA_003402655.1 |
+| *Aleochara bilineata*       | 135921  | beetles                  | GCA_003054995.1 |
+| *Sitophilus oryzae*         | 7048    | rice weevil              | GCA_002938485.1 |
+| *Agrilus planipennis*       | 224129  | emerald ash borer        | GCF_000699045.2 |
+| *Anoplophora glabripennis*  | 217634  | Asian longhorned beetle  | GCF_000390285.2 |
+| *Leptinotarsa decemlineata* | 7539    | Colorado potato beetle   | GCF_000500325.1 |
+| *Onthophagus taurus*        | 166361  | beetles                  | GCF_000648695.1 |
+| *Pogonus chalceus*          | 235516  | beetles                  | GCA_002278615.1 |
+| *Aethina tumida*            | 116153  | small hive beetle        | GCF_001937115.1 |
+| *Tribolium castaneum*       | 7070    | red flour beetle         | GCF_000002335.3 |
+| *Oryctes borbonicus*        | 1629725 | beetles                  | GCA_001443705.1 |
+| *Dendroctonus ponderosae*   | 77166   | mountain pine beetle     | GCF_000355655.1 |
+| *Nicrophorus vespilloides*  | 110193  | beetles                  | GCF_001412225.1 |
+| *Priacma serrata*           | 50550   | beetles                  | GCA_000281835.1 |
+| *Hypothenemus hampei*       | 57062   | coffee berry borer       | GCA_001012855.1 |
+| *Dendroctonus ponderosae*   | 77166   | mountain pine beetle     | GCA_000346045.2 |
      
     A hybridization melting temperature (Tm, defined as temperature at which 50% of molecules are hybridized) was estimated for each hit assuming standard myBaits® buffers and conditions.
 
