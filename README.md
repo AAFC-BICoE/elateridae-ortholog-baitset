@@ -4,7 +4,7 @@ The Bait-100-85_Elateridae.fas bait set contains 40190 100nt baits designed from
 
 ### Acknowledgements ###
 This bait set was made possible by the significant contributions from the following scientists:
-* <> For providing the transcriptomes of *Malnotus vollusus* and *Drilus concolor*
+* Hermes Escalona, Adam Ślipiński, Andreas Zwick (Australian National Insect Collection, CSIRO) For providing the transcriptomes of *Melanotus villosus* and *Drilus concolor*
 
 * Dr. Hume Douglas and Dr. Adam Brunke (Agriculture & Agri-Food Canada) for their instrumental guidance on the design of the bait set.  
 
