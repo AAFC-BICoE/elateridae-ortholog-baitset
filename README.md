@@ -4,7 +4,7 @@ The Bait-100-85_Elateridae.fas bait set contains 40190 100nt baits designed from
 
 ### Acknowledgements ###
 This bait set was made possible by the significant contributions from the following scientists:
-* Hermes Escalona, Adam Ślipiński, Andreas Zwick (Australian National Insect Collection, CSIRO) For providing the transcriptomes of *Melanotus villosus* and *Drilus concolor*
+* Hermes Escalona, Adam Ślipiński, (Australian National Insect Collection, CSIRO, Australia), and Duane McKenna (University of Memphis, USA) For providing the transcriptomes of *Melanotus villosus* and *Drilus concolor*
 
 * Dr. Hume Douglas and Dr. Adam Brunke (Agriculture & Agri-Food Canada) for their instrumental guidance on the design of the bait set.  
 
@@ -52,7 +52,7 @@ awk 'BEGIN {FS="\t"; OFS="\t"} {print $1, $6, $5}' OrthoDB_Coleoptera_80_Percent
 * [SRR4413771](https://www.ncbi.nlm.nih.gov/sra/SRR4413771) *Chauliognathus flavipes*
 * [SRR7300147](https://www.ncbi.nlm.nih.gov/sra/SRR7300147) *Pyrearinus fragilis* 
 * [SRR7300148](https://www.ncbi.nlm.nih.gov/sra/SRR7300148) *Pyrearinus fragilis*
-* [SRR7300149](https://www.ncbi.nlm.nih.gov/sra/SRR7300149) *Conoderus*
+* [SRR7300149](https://www.ncbi.nlm.nih.gov/sra/SRR7300149) *Monocrepidius*
 * [SRR6286833](https://www.ncbi.nlm.nih.gov/sra/SRR6286833) *Melanotus cribricollis*
 * [SRR6345452](https://www.ncbi.nlm.nih.gov/sra/SRR6345452) *Photinus pyralis*
 
