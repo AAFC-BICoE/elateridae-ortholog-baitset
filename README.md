@@ -49,7 +49,7 @@ awk 'BEGIN {FS="\t"; OFS="\t"} {print $1, $6, $5}' OrthoDB_Coleoptera_80_Percent
 
 * I189 *Melanotus villosus*
 * I246 *Drilus concolor* 
-* [SRR4413771](https://www.ncbi.nlm.nih.gov/sra/SRR4413771) *Phrixothrix hirtus*
+* [SRR4413771](https://www.ncbi.nlm.nih.gov/sra/SRR4413771) *Chauliognathus flavipes*
 * [SRR7300147](https://www.ncbi.nlm.nih.gov/sra/SRR7300147) *Pyrearinus fragilis* 
 * [SRR7300148](https://www.ncbi.nlm.nih.gov/sra/SRR7300148) *Pyrearinus fragilis*
 * [SRR7300149](https://www.ncbi.nlm.nih.gov/sra/SRR7300149) *Conoderus*
