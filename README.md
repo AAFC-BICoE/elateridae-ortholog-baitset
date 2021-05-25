@@ -1,6 +1,6 @@
 # Elateridae Ortholog Target Enrichment Baits
 
-The Bait-100-85_Elateridae.fas bait set contains 40190 100nt baits designed from 8 Elateroidea species targeting 2260 orthologs. 
+The Bait-100-85_Elateridae.fas bait set contains 40190 100nt baits designed from 8 Elateroidea species targeting 2260 orthologs. Experimental application of this bait set is described in Douglas et al. (in press)
 
 ### Acknowledgements ###
 This bait set was made possible by the significant contributions from the following scientists:
@@ -165,10 +165,13 @@ Agriculture & Agri-Food Canada, Government of Canada
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ### Citations
-1)	Brunke, A J., Hansen, A. K., Salnitska, M., Kypke, J. L., Escalona, H., Chapados, J.T., Eyres, J., Richter, R., Smetana, A., Ślipiński, A., Zwick, A., Hájek, J., Leschen, R., Solodovnikov, A. and Dettman, J.R. The limits of Quediini at last (Coleoptera: Staphylinidae: Staphylininae): a rove beetle mega-radiation resolved by comprehensive sampling and anchored phylogenomics. Systematic Entomology. 46: 396-421.
 
-2) Faircloth BC. 2016. PHYLUCE is a software package for the analysis of conserved genomic loci. Bioinformatics 32:786-788. doi:10.1093/bioinformatics/btv646.
+1) Douglas, H.B., Kundrata, R., Brunke, A.J., Escalona, H., Chapados, J.T., Eyres, J., Richter, R., Savard, K., Ślipiński, A., McKenna, D., Detman, J.R. Anchored phylogenomics, evolution and systematics of Elateridae: Are all bioluminescent Elateroidea derived click beetles? In press. 1-24.
 
-3) OrthoDB v10: sampling the diversity of animal, plant, fungal, protist, bacterial and viral genomes for evolutionary and functional annotations of orthologs Kriventseva EK et al, NAR, Nov 2018, doi:10.1093/nar/gky1053. PMID:30395283
+2) Brunke, A J., Hansen, A. K., Salnitska, M., Kypke, J. L., Escalona, H., Chapados, J.T., Eyres, J., Richter, R., Smetana, A., Ślipiński, A., Zwick, A., Hájek, J., Leschen, R., Solodovnikov, A. and Dettman, J.R. The limits of Quediini at last (Coleoptera: Staphylinidae: Staphylininae): a rove beetle mega-radiation resolved by comprehensive sampling and anchored phylogenomics. Systematic Entomology. Accepted. 1–36.
 
-4) Petersen, M., Meusemann, K., Donath, A. et al. Orthograph: a versatile tool for mapping coding nucleotide sequences to clusters of orthologous genes. BMC Bioinformatics 18, 111 (2017). https://doi.org/10.1186/s12859-017-1529-8
+3) Faircloth BC. 2016. PHYLUCE is a software package for the analysis of conserved genomic loci. Bioinformatics 32:786-788. doi:10.1093/bioinformatics/btv646.
+
+4) OrthoDB v10: sampling the diversity of animal, plant, fungal, protist, bacterial and viral genomes for evolutionary and functional annotations of orthologs Kriventseva EK et al, NAR, Nov 2018, doi:10.1093/nar/gky1053. PMID:30395283
+
+5) Petersen, M., Meusemann, K., Donath, A. et al. Orthograph: a versatile tool for mapping coding nucleotide sequences to clusters of orthologous genes. BMC Bioinformatics 18, 111 (2017). https://doi.org/10.1186/s12859-017-1529-8
