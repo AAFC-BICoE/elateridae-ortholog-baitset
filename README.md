@@ -157,7 +157,7 @@ jackson.eyres@canada.ca
 ### Cite Us
 If you use this bait set, please cite the following paper
 
-Douglas, H.B.; Kundrata, R.; Brunke, A.J.; Escalona, H.E.; Chapados, J.T.; Eyres, J.; Richter, R.; Savard, K.; Slipinski, A.; McKenna, D.; et al. Anchored Phylogenomics, Evolution and Systematics of Elateridae: Are All Bioluminescent Elateroidea Derived Click Beetles? Biology 2021, 10, 451. https://doi.org/10.3390/biology10060451
+Douglas, H.B.; Kundrata, R.; Brunke, A.J.; Escalona, H.E.; Chapados, J.T.; Eyres, J.; Richter, R.; Savard, K.; Slipinski, A.; McKenna, D.; Dettman, J.R. Anchored Phylogenomics, Evolution and Systematics of Elateridae: Are All Bioluminescent Elateroidea Derived Click Beetles? Biology 2021, 10, 451. https://doi.org/10.3390/biology10060451
 ### Copyright
 Agriculture & Agri-Food Canada, Government of Canada
 
