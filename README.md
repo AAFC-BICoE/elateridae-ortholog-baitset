@@ -165,9 +165,10 @@ Agriculture & Agri-Food Canada, Government of Canada
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ### Citations
+
 1) Douglas, H.B., Kundrata, R., Brunke, A.J., Escalona, H., Chapados, J.T., Eyres, J., Richter, R., Savard, K., Ślipiński, A., McKenna, D., Detman, J.R. Anchored phylogenomics, evolution and systematics of Elateridae: Are all bioluminescent Elateroidea derived click beetles? In press. 1-24.
 
-2)	Brunke, A J., Hansen, A. K., Salnitska, M., Kypke, J. L., Escalona, H., Chapados, J.T., Eyres, J., Richter, R., Smetana, A., Ślipiński, A., Zwick, A., Hájek, J., Leschen, R., Solodovnikov, A. and Dettman, J.R. The limits of Quediini at last (Coleoptera: Staphylinidae: Staphylininae): a rove beetle mega-radiation resolved by comprehensive sampling and anchored phylogenomics. Systematic Entomology. Accepted. 1–36.
+2) Brunke, A J., Hansen, A. K., Salnitska, M., Kypke, J. L., Escalona, H., Chapados, J.T., Eyres, J., Richter, R., Smetana, A., Ślipiński, A., Zwick, A., Hájek, J., Leschen, R., Solodovnikov, A. and Dettman, J.R. The limits of Quediini at last (Coleoptera: Staphylinidae: Staphylininae): a rove beetle mega-radiation resolved by comprehensive sampling and anchored phylogenomics. Systematic Entomology. Accepted. 1–36.
 
 3) Faircloth BC. 2016. PHYLUCE is a software package for the analysis of conserved genomic loci. Bioinformatics 32:786-788. doi:10.1093/bioinformatics/btv646.
 
