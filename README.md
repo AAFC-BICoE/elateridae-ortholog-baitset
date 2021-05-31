@@ -106,7 +106,7 @@ the Elateridae database; 0.1% masked (all simple repeats)
 | *Hypothenemus hampei*       | 57062   | coffee berry borer       | GCA_001012855.1 |
 | *Dendroctonus ponderosae*   | 77166   | mountain pine beetle     | GCA_000346045.2 |
      
-    A hybridization melting temperature (Tm, defined as temperature at which 50% of molecules are hybridized) was estimated for each hit assuming standard myBaits® buffers and conditions.
+A hybridization melting temperature (Tm, defined as temperature at which 50% of molecules are hybridized) was estimated for each hit assuming standard myBaits® buffers and conditions.
 
 5) For each bait candidate, one BLAST hit with the highest Tm is first discarded from the results
 (allowing for 1 hit in the genome), and only the top 500 hits (by bit score) are considered. Based
@@ -135,7 +135,7 @@ Masked
 
 ### Phyluce Prediction of Bait Effectiveness
 In order to provide a rough idea effectiveness, the bait set was compared against 23 Coleoptera assemblies available as of April 2019.
-Bait set fasta headers were converted to Phyluce "UCE" format and processed via Phyluce, outlined in [Tutorial IV: Identifying UCE Loci and Designing Baits To Target Them: In-silico test of the bait design](https://phyluce.readthedocs.io/en/latest/tutorial-four.html#in-silico-test-of-the-bait-design)
+Bait set fasta headers were converted to Phyluce "UCE" format and processed via Phyluce, outlined in [Tutorial IV: Identifying UCE Loci and Designing Baits To Target Them: In-silico test of the bait design](https://phyluce.readthedocs.io/en/latest/tutorials/tutorial-4.html)
 
 Table 1. Target Hits Among NCBI Coleoptera Assemblies
 
