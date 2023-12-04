@@ -3,6 +3,8 @@
 The Bait-100-85_Elateridae.fas bait set contains 40190 100nt baits designed from 8 Elateroidea species targeting 2260 orthologs. 
 
 ### Acknowledgements ###
+Developed under the direction of Jeremy Dettman as part of BioMob WP2
+
 This bait set was made possible by the significant contributions from the following scientists:
 * Hermes Escalona, Adam Ślipiński, (Australian National Insect Collection, CSIRO, Australia), and Duane McKenna (University of Memphis, USA) for providing the transcriptomes of *Melanotus villosus* and *Drilus concolor*
 
